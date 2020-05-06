@@ -145,7 +145,7 @@ module.exports = {
   // 接口鉴权
   gateway: {
     auth: true,
-    accessToken: 'YOUR_PASSWORD',
+    accessToken: 'psw',
   },
 };
 
